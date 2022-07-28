@@ -1,10 +1,10 @@
-# my_first_app
-#Learning Log (journal for keeping records)
+my_first_app
+Learning Log (journal for keeping records)
 
-#Spec (simplified):
+Spec (simplified):
 
-#Web app called "Learning Log"
-#- allows users to log the topics they're interested in/make jornal entries
+Web app called "Learning Log"
+- allows users to log the topics they're interested in/make jornal entries
 
 Learning Log home page:
 - describes the site and invites users to register ot log in 
