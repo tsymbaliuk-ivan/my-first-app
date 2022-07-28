@@ -11,8 +11,8 @@ Learning Log home page:
 
 Learning Log (logged in):
 - user can:
- create new topics
- add new entries
- read/edit existing entries
+- create new topics
+- add new entries
+- read/edit existing entries
 
 
