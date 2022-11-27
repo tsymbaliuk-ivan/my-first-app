@@ -3,7 +3,9 @@
     <p>Topics</p>
     <ul>
         {% for topic in topics %}
+        <li>
             <a href="{% url 'learning_log:topic' topic.id %}">{{ topic }}</a>
+        </li>
         {% empty %}
             <li>No topics have been added yet.</li>
         {% endfor %}
